@@ -1,0 +1,101 @@
+Container is store 100 shapes:
+It is Rectangle (x1, y1) = (-14, 96), (x2, y2) = (76, -74), color: orange, area = 15300
+It is Triangle (x1, y1) = (6, -94), (x2, y2) = (-52, 4), (x3, y3) = (-95, 17), color: , area = 1730.0000000000023
+It is Rectangle (x1, y1) = (-45, 26), (x2, y2) = (24, -93), color: , area = 8211
+It is Circle (x1, y1) = (-34, 29), radius = 34, color: blue, area = 3631.681107549801
+It is Rectangle (x1, y1) = (73, 79), (x2, y2) = (93, 24), color: orange, area = 1100
+It is Rectangle (x1, y1) = (34, 69), (x2, y2) = (36, -1), color: dark blue, area = 140
+It is Rectangle (x1, y1) = (8, -26), (x2, y2) = (88, -85), color: , area = 4720
+It is Triangle (x1, y1) = (75, 74), (x2, y2) = (-38, -35), (x3, y3) = (51, 2), color: red, area = 2760.0000000000045
+It is Circle (x1, y1) = (25, 73), radius = 66, color: yellow, area = 13684.77759903714
+It is Circle (x1, y1) = (65, 9), radius = 29, color: yellow, area = 2642.079421669016
+It is Rectangle (x1, y1) = (-59, 5), (x2, y2) = (-53, -83), color: , area = 528
+It is Circle (x1, y1) = (-69, 88), radius = 90, color: orange, area = 25446.900494077323
+It is Triangle (x1, y1) = (-43, -31), (x2, y2) = (35, -18), (x3, y3) = (71, -70), color: , area = 2262.0000000000014
+It is Rectangle (x1, y1) = (-49, -40), (x2, y2) = (20, -62), color: dark blue, area = 1518
+It is Circle (x1, y1) = (50, -59), radius = 55, color: , area = 9503.317777109125
+It is Circle (x1, y1) = (12, 84), radius = 15, color: orange, area = 706.8583470577034
+It is Circle (x1, y1) = (42, 6), radius = 71, color: violet, area = 15836.768566746146
+It is Rectangle (x1, y1) = (13, -24), (x2, y2) = (38, -40), color: yellow, area = 400
+It is Rectangle (x1, y1) = (-36, -45), (x2, y2) = (74, -47), color: dark blue, area = 220
+It is Circle (x1, y1) = (97, 58), radius = 63, color: dark blue, area = 12468.981242097889
+It is Circle (x1, y1) = (100, 68), radius = 67, color: violet, area = 14102.609421964582
+It is Triangle (x1, y1) = (39, 0), (x2, y2) = (65, 24), (x3, y3) = (-63, -39), color: yellow, area = 717.0000000000052
+It is Rectangle (x1, y1) = (-91, -89), (x2, y2) = (30, -91), color: yellow, area = 242
+It is Triangle (x1, y1) = (32, -30), (x2, y2) = (-79, -76), (x3, y3) = (30, 84), color: dark blue, area = 6373.000000000007
+It is Rectangle (x1, y1) = (38, 63), (x2, y2) = (49, -76), color: red, area = 1529
+It is Circle (x1, y1) = (33, -44), radius = 74, color: yellow, area = 17203.36137105771
+It is Circle (x1, y1) = (91, 77), radius = 42, color: red, area = 5541.769440932395
+It is Rectangle (x1, y1) = (58, 90), (x2, y2) = (93, -52), color: yellow, area = 4970
+It is Circle (x1, y1) = (23, 40), radius = 29, color: green, area = 2642.079421669016
+It is Rectangle (x1, y1) = (-64, 68), (x2, y2) = (-57, -1), color: dark blue, area = 483
+It is Triangle (x1, y1) = (94, 28), (x2, y2) = (30, -81), (x3, y3) = (-27, -14), color: blue, area = 5250.5
+It is Triangle (x1, y1) = (32, 68), (x2, y2) = (27, 86), (x3, y3) = (80, 13), color: yellow, area = 294.5000000000017
+It is Triangle (x1, y1) = (68, 74), (x2, y2) = (-82, 68), (x3, y3) = (18, 10), color: green, area = 4650.0
+It is Triangle (x1, y1) = (-16, 50), (x2, y2) = (-22, 69), (x3, y3) = (-29, 98), color: blue, area = 20.500000000003762
+It is Circle (x1, y1) = (-6, 48), radius = 62, color: orange, area = 12076.282160399165
+It is Circle (x1, y1) = (-10, -36), radius = 18, color: green, area = 1017.8760197630929
+It is Triangle (x1, y1) = (87, -56), (x2, y2) = (-32, 62), (x3, y3) = (-43, 65), color: blue, area = 470.4999999999984
+It is Circle (x1, y1) = (100, 61), radius = 11, color: green, area = 380.132711084365
+It is Rectangle (x1, y1) = (-16, 79), (x2, y2) = (-11, -34), color: red, area = 565
+It is Triangle (x1, y1) = (47, 10), (x2, y2) = (27, -56), (x3, y3) = (-82, 45), color: green, area = 4606.999999999996
+It is Triangle (x1, y1) = (-43, 42), (x2, y2) = (-61, -25), (x3, y3) = (78, -71), color: yellow, area = 5070.500000000002
+It is Circle (x1, y1) = (69, 5), radius = 15, color: yellow, area = 706.8583470577034
+It is Triangle (x1, y1) = (43, 10), (x2, y2) = (-100, 36), (x3, y3) = (-78, -9), color: dark blue, area = 2931.5000000000014
+It is Rectangle (x1, y1) = (29, -73), (x2, y2) = (67, -79), color: orange, area = 228
+It is Circle (x1, y1) = (44, -98), radius = 12, color: green, area = 452.3893421169302
+It is Triangle (x1, y1) = (63, 30), (x2, y2) = (82, -12), (x3, y3) = (-97, 11), color: violet, area = 3540.5000000000027
+It is Triangle (x1, y1) = (4, -64), (x2, y2) = (87, 25), (x3, y3) = (68, 55), color: violet, area = 2090.4999999999973
+It is Rectangle (x1, y1) = (-41, -17), (x2, y2) = (82, -43), color: yellow, area = 3198
+It is Rectangle (x1, y1) = (-63, -6), (x2, y2) = (84, -36), color: blue, area = 4410
+It is Rectangle (x1, y1) = (89, 8), (x2, y2) = (92, -45), color: violet, area = 159
+It is Rectangle (x1, y1) = (-95, -96), (x2, y2) = (29, -100), color: orange, area = 496
+It is Circle (x1, y1) = (49, 26), radius = 97, color: blue, area = 29559.245277626364
+It is Triangle (x1, y1) = (-7, 74), (x2, y2) = (97, -92), (x3, y3) = (-19, 21), color: orange, area = 3751.9999999999936
+It is Triangle (x1, y1) = (-42, -70), (x2, y2) = (22, 24), (x3, y3) = (-74, -94), color: green, area = 736.0000000000108
+It is Rectangle (x1, y1) = (-96, -82), (x2, y2) = (-87, -100), color: violet, area = 162
+It is Triangle (x1, y1) = (91, -8), (x2, y2) = (-32, -95), (x3, y3) = (35, 24), color: dark blue, area = 4404.0
+It is Rectangle (x1, y1) = (-84, -95), (x2, y2) = (87, -96), color: orange, area = 171
+It is Triangle (x1, y1) = (94, 58), (x2, y2) = (-10, 69), (x3, y3) = (-93, 83), color: red, area = 271.5000000000446
+It is Circle (x1, y1) = (52, 89), radius = 16, color: dark blue, area = 804.247719318987
+It is Triangle (x1, y1) = (60, -17), (x2, y2) = (-75, 35), (x3, y3) = (-37, -43), color: blue, area = 4276.999999999998
+It is Rectangle (x1, y1) = (17, 99), (x2, y2) = (90, -52), color: red, area = 11023
+It is Triangle (x1, y1) = (-45, 72), (x2, y2) = (46, -3), (x3, y3) = (-16, -57), color: orange, area = 4782.0
+It is Triangle (x1, y1) = (23, -56), (x2, y2) = (31, 26), (x3, y3) = (-4, -68), color: violet, area = 1059.0000000000005
+It is Rectangle (x1, y1) = (9, 20), (x2, y2) = (58, -98), color: orange, area = 5782
+It is Circle (x1, y1) = (-68, 54), radius = 94, color: yellow, area = 27759.112687119414
+It is Triangle (x1, y1) = (-15, 54), (x2, y2) = (9, -58), (x3, y3) = (71, 24), color: red, area = 4455.999999999999
+It is Triangle (x1, y1) = (56, -88), (x2, y2) = (-90, -4), (x3, y3) = (-61, -16), color: orange, area = 341.9999999999844
+It is Triangle (x1, y1) = (9, 65), (x2, y2) = (-62, 77), (x3, y3) = (1, -12), color: blue, area = 2781.4999999999995
+It is Rectangle (x1, y1) = (68, -35), (x2, y2) = (78, -47), color: violet, area = 120
+It is Rectangle (x1, y1) = (68, 73), (x2, y2) = (81, 17), color: orange, area = 728
+It is Triangle (x1, y1) = (-39, -30), (x2, y2) = (-18, -50), (x3, y3) = (-91, 61), color: violet, area = 435.5000000000068
+It is Rectangle (x1, y1) = (71, 7), (x2, y2) = (81, -68), color: yellow, area = 750
+It is Rectangle (x1, y1) = (84, -89), (x2, y2) = (91, -97), color: red, area = 56
+It is Triangle (x1, y1) = (91, 56), (x2, y2) = (-38, -87), (x3, y3) = (79, -80), color: red, area = 7914.000000000001
+It is Circle (x1, y1) = (-19, 19), radius = 53, color: green, area = 8824.73376393373
+It is Triangle (x1, y1) = (-9, -94), (x2, y2) = (-16, 13), (x3, y3) = (-95, 94), color: red, area = 3943.0000000000014
+It is Circle (x1, y1) = (83, 77), radius = 5, color: orange, area = 78.53981633974483
+It is Triangle (x1, y1) = (97, -61), (x2, y2) = (-13, 68), (x3, y3) = (77, 83), color: green, area = 6629.999999999999
+It is Circle (x1, y1) = (-61, 33), radius = 13, color: orange, area = 530.929158456675
+It is Rectangle (x1, y1) = (-36, 28), (x2, y2) = (-10, 18), color: green, area = 260
+It is Rectangle (x1, y1) = (77, 72), (x2, y2) = (90, -49), color: green, area = 1573
+It is Rectangle (x1, y1) = (79, -35), (x2, y2) = (92, -70), color: , area = 455
+It is Rectangle (x1, y1) = (-3, 96), (x2, y2) = (17, -7), color: blue, area = 2060
+It is Circle (x1, y1) = (32, 23), radius = 11, color: blue, area = 380.132711084365
+It is Triangle (x1, y1) = (-83, 18), (x2, y2) = (-89, 98), (x3, y3) = (-34, 65), color: , area = 2101.0
+It is Circle (x1, y1) = (47, -85), radius = 87, color: red, area = 23778.714795021144
+It is Rectangle (x1, y1) = (-28, -98), (x2, y2) = (13, -99), color: dark blue, area = 41
+It is Triangle (x1, y1) = (12, 8), (x2, y2) = (-38, -78), (x3, y3) = (-45, 95), color: yellow, area = 4626.000000000001
+It is Circle (x1, y1) = (95, -14), radius = 60, color: violet, area = 11309.733552923255
+It is Circle (x1, y1) = (1, -11), radius = 30, color: blue, area = 2827.4333882308138
+It is Triangle (x1, y1) = (64, 96), (x2, y2) = (-59, 22), (x3, y3) = (63, -73), color: green, area = 10356.499999999996
+It is Circle (x1, y1) = (-24, 26), radius = 31, color: orange, area = 3019.0705400997913
+It is Circle (x1, y1) = (87, 77), radius = 74, color: orange, area = 17203.36137105771
+It is Rectangle (x1, y1) = (-50, 44), (x2, y2) = (98, -85), color: dark blue, area = 19092
+It is Rectangle (x1, y1) = (33, -13), (x2, y2) = (43, -44), color: violet, area = 310
+It is Rectangle (x1, y1) = (20, -92), (x2, y2) = (82, -97), color: blue, area = 310
+It is Circle (x1, y1) = (-44, -64), radius = 52, color: yellow, area = 8494.8665353068
+It is Triangle (x1, y1) = (-33, -16), (x2, y2) = (-37, 88), (x3, y3) = (-53, -39), color: , area = 1085.9999999999966
+It is Rectangle (x1, y1) = (-94, 60), (x2, y2) = (38, -52), color: orange, area = 14784
+It is Circle (x1, y1) = (-18, 95), radius = 86, color: yellow, area = 23235.21926595011
